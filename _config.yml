@@ -23,9 +23,9 @@ navbar-links:
  Introduction:
      - Introduction: "Introduction"
    #  - Calcul de l’indice de réparabilité: "Calcul de l’indice de réparabilité" 
-# Des difficultés: 
- #    - Du point de vue du consommateur: "Du point de vue du consommateur"
-  #   - Du point de vue du producteur: "Du point de vue du producteur"
+Other: 
+  - Other: "Other"
+  - Bibliography: "Bibliography"
 # Des pistes d'améliorations:
 #     - Amélioration du calcul de l’indice et de la transparence: "Amélioration du calcul de l’indice et de la transparence"
 #     - Un meilleur contrôle de l’indice et une implication de tous les acteurs: "Un meilleur contrôle de l’indice et une implication de tous les acteurs"
