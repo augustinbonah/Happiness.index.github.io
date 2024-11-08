@@ -21,7 +21,7 @@ author: Augustin Bonah
 
 navbar-links:
  Introduction:
-     #- Présentation de l’objectif de l’indice de réparabilité: "Présentation de l’objectif de l’indice de réparabilité"
+     - Introduction: "Introduction"
    #  - Calcul de l’indice de réparabilité: "Calcul de l’indice de réparabilité" 
 # Des difficultés: 
  #    - Du point de vue du consommateur: "Du point de vue du consommateur"
