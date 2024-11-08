@@ -24,7 +24,7 @@ navbar-links:
      - Introduction: "Introduction"
    #  - Calcul de l’indice de réparabilité: "Calcul de l’indice de réparabilité"
  Other:
-    # - Other: "Other"
+     - Other: "Other"
      - Bibliography: "Bibliography"
 # Des pistes d'améliorations:
 #     - Amélioration du calcul de l’indice et de la transparence: "Amélioration du calcul de l’indice et de la transparence"
