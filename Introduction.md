@@ -4,13 +4,8 @@ title: Introduction
 subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+A happiness index is a metric used to measure the well-being and life satisfaction of a population beyond just economic indicators like GDP. Typically, happiness indices incorporate various factors, including physical and mental health, economic stability, social relationships, freedom, and environmental quality. Well-known happiness indices, such as the World Happiness Report, use surveys and data on subjective well-being to rank countries. The idea behind happiness indices is to encourage governments to prioritize policies that improve quality of life rather than focusing solely on economic growth. Bhutan’s Gross National Happiness (GNH) is a notable example, emphasizing sustainability, culture, and good governance as central to its national policy.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### An example of picture
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![g0_d5FeZrm8HvFC37b9qByX05RBd3s6HVNn0bhuj5Y0](https://github.com/user-attachments/assets/470246e9-b6c9-4fee-af1b-d38707c37631)
