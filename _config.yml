@@ -21,18 +21,18 @@ author: Augustin Bonah
 
 navbar-links:
  Introduction:
-     - Présentation de l’objectif de l’indice de réparabilité: "Présentation de l’objectif de l’indice de réparabilité"
-     - Calcul de l’indice de réparabilité: "Calcul de l’indice de réparabilité" 
- Des difficultés: 
-     - Du point de vue du consommateur: "Du point de vue du consommateur"
-     - Du point de vue du producteur: "Du point de vue du producteur"
- Des pistes d'améliorations:
-     - Amélioration du calcul de l’indice et de la transparence: "Amélioration du calcul de l’indice et de la transparence"
-     - Un meilleur contrôle de l’indice et une implication de tous les acteurs: "Un meilleur contrôle de l’indice et une implication de tous les acteurs"
- Autres: 
-     - Conclusion: "Conclusion"
-     - Bibliographie: "Bibliographie"
-     - Annexes: "Annexes"
+     #- Présentation de l’objectif de l’indice de réparabilité: "Présentation de l’objectif de l’indice de réparabilité"
+   #  - Calcul de l’indice de réparabilité: "Calcul de l’indice de réparabilité" 
+# Des difficultés: 
+ #    - Du point de vue du consommateur: "Du point de vue du consommateur"
+  #   - Du point de vue du producteur: "Du point de vue du producteur"
+# Des pistes d'améliorations:
+#     - Amélioration du calcul de l’indice et de la transparence: "Amélioration du calcul de l’indice et de la transparence"
+#     - Un meilleur contrôle de l’indice et une implication de tous les acteurs: "Un meilleur contrôle de l’indice et une implication de tous les acteurs"
+# Autres: 
+   #  - Conclusion: "Conclusion"
+   #  - Bibliographie: "Bibliographie"
+   #  - Annexes: "Annexes"
 
 ################
 # --- Logo --- #
