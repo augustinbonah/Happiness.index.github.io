@@ -16,4 +16,4 @@ Les Six Variables Fondamentales L'étude s'articule autour de six variables clé
 6. La perception de la corruption (10-15% du score) évalue la confiance dans les institutions et le système social. Son impact négatif sur le bonheur souligne l'importance de la bonne gouvernance.
 
 Voici un exemple de ce à quoi ressemblent les résultats ci-dessous : 
-![g0_d5FeZrm8HvFC37b9qByX05RBd3s6HVNn0bhuj5Y0](httpsassets/img/20240320-world-happiest-country-canada.jpg
+![https://github.com/assets/img/20240320-world-happiest-country-canada.jpg]
