@@ -22,7 +22,8 @@ author: Augustin Bonah
 navbar-links:
  Introduction:
      - Introduction: "Introduction"
-   #  - Calcul de l’indice de réparabilité: "Calcul de l’indice de réparabilité"
+ La mesure méthodoligque du bonheur:
+     - Introduction: "Introduction"
  Other:
      - Other: "Other"
      - Bibliography: "Bibliography"
