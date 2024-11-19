@@ -9,14 +9,14 @@ Voici nos sources:
 
 [1] Booth, M. (2014). The almost nearly perfect people: Behind the myth of the Scandinavian utopia. Jonathan Cape.
 
-[2] Cantril, H. (2024). The Cantril Ladder of Life Scale. Gallup. https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/65c19a7a89dc5d612f04dd25/1707186811729/2024cantril.pdf
+[2] [Cantril, H. (2024). The Cantril Ladder of Life Scale. Gallup.](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/65c19a7a89dc5d612f04dd25/1707186811729/2024cantril.pdf)
 
 [3] Dolan, P., et al. (2016, August 20). The measure matters: An investigation of evaluative and experience-based measures of wellbeing in time use data. Social Indicators Research, 134(1), 57–73.
 
 [4] Gallup. (2008, September 3). Understanding how Gallup uses the Cantril Scale. Gallup. https://news.gallup.com/poll/122453/understanding-gallup-uses-cantril-scale.aspx
 Helliwell, J. F., Layard, R., Sachs, J. D., De Neve, J.-E., Aknin, L. B., & Wang, S. (Eds.). (2024). World happiness report 2024. University of Oxford: Wellbeing Research Centre.
 
-[5] Happier Lives Institute. (n.d.). Key ideas. Happier Lives Institute. https://www.happierlivesinstitute.org/key-ideas/
+[5] Happier Lives Institute. (n.d.). Key ideas. Happier Lives Institute.  https://www.happierlivesinstitute.org/key-ideas/
 
 [6]Klein, E. (2019, November 13). How to be happy: Positive psychology, mindfulness, and language. Vox. https://www.vox.com/the-highlight/2019/11/13/20953899/how-to-be-happy-positive-psychology-mindfulness-language
 
