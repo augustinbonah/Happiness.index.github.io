@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Peut-on quantifier le bonheur? 
+subtitle:
+---
 
 Le bonheur est très peu souvent considéré comme un objet sociologique et peu d’enquêtes y sont vouées, celui-ci étant subjectif et par ailleurs difficilement quantifiable. Il est en effet souvent considéré comme un sujet philosophique, dont la perception dépend largement de ressorts psychologiques intimes propres à l’individu. Le bonheur ne serait alors pas déterminé socialement. Les travaux d’Emile Durkheim sur le suicide (Le Suicide, 1987), fondateurs de la discipline, avancent néanmoins une position bien différente. Son ouvrage montre que le niveau de bonheur ou de malheur peut faire l'objet d’études quantitatives qui montrent de fortes corrélations entre certains facteurs et le suicide. Peut-on aussi montrer quantitativement que d'autres facteurs sont corrélés au bonheur ? Comment les choisir et les pondérer ?
 
