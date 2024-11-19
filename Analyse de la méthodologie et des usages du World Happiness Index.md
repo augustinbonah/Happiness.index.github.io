@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analyse de la Méthodologie et des Usages du World Happiness Index
+title: Analyse de la méthodologie et des usages du World Happiness Index
 subtitle:
 ---
 
