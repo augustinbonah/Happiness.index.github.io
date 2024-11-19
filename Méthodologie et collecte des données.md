@@ -19,6 +19,4 @@ Les Six Variables Fondamentales L'étude s'articule autour de six variables clé
 
 Voici un exemple de ce à quoi ressemblent les résultats ci-dessous : 
 
-<img src="assets/img/20240320-world-happiest-country-canada.jpg"/>
-
-
+<img src="assets/img/20240320-world-happiest-country-canada.jpg" width="600">
