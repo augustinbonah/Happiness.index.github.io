@@ -1,3 +1,9 @@
+---
+layout: page
+title: Une réalite trop simpliste pour une réalité complexe
+subtitle:
+---
+
 Le World Happiness Report (WHR), conçu comme une synthèse des perceptions du bien-être à travers le monde, est devenu une référence incontournable. Cependant, sous son apparente simplicité, cet outil souffre de limites méthodologiques, de biais culturels et de contradictions qui compromettent sa pertinence. À travers une analyse approfondie, nous examinerons en quoi le WHR échoue à capturer la complexité du bonheur humain et à établir des comparaisons véritablement instructives entre les nations.
 
 ### Le problème de l’indicateur unique  
