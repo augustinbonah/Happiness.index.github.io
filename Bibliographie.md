@@ -9,7 +9,7 @@ Voici nos sources:
 
 [1] Booth, M. (2014). The almost nearly perfect people: Behind the myth of the Scandinavian utopia. Jonathan Cape.
 
-[2] [Cantril, H. (2024). The Cantril Ladder of Life Scale. Gallup.](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/65c19a7a89dc5d612f04dd25/1707186811729/2024cantril.pdf)
+[2] Cantril, H. (2024). The Cantril Ladder of Life Scale. Gallup. [https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/65c19a7a89dc5d612f04dd25/1707186811729/2024cantril.pdf](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/65c19a7a89dc5d612f04dd25/1707186811729/2024cantril.pdf)
 
 [3] Dolan, P., et al. (2016, August 20). The measure matters: An investigation of evaluative and experience-based measures of wellbeing in time use data. Social Indicators Research, 134(1), 57–73.
 
