@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Une réalite trop simpliste pour une réalité complexe
+title: Une méthodologie trop simpliste pour une réalité complexe
 subtitle:
 ---
 
