@@ -27,9 +27,10 @@ navbar-links:
      - Analyse de la méthodologie et des usages du World Happiness Index: "Analyse de la méthodologie et des usages du World Happiness Index"
  Des limites: 
  Des améliorations: 
- Other:
-     - Other: "Other"
-     - Bibliography: "Bibliography"
+ Autres:
+     - Conclusion: "Conclusion"
+     - Bibliographie: "Bibliographie"
+     - Annexe: "Annexe"
 # Des pistes d'améliorations:
 #     - Amélioration du calcul de l’indice et de la transparence: "Amélioration du calcul de l’indice et de la transparence"
 #     - Un meilleur contrôle de l’indice et une implication de tous les acteurs: "Un meilleur contrôle de l’indice et une implication de tous les acteurs"
