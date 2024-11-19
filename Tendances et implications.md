@@ -15,7 +15,7 @@ Les tendances récentes du rapport indiquent également une prise de conscience 
 
 <img width="585" alt="Capture d’écran 2024-11-18 223432.png" src="https://github.com/augustinbonah/Happiness.index.github.io/assets/img/Capture d’écran 2024-11-18 223432.png">
 
-![Yes](assets/img/Capture d’écran 2024-11-18 223432.png)
+![Yes]("assets/img/Capture d’écran 2024-11-18 223432.png")
 
 <img src="assets/img/Capture d’écran 2024-11-18 223432.png"/>
 
