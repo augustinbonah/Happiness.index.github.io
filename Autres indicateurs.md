@@ -20,3 +20,5 @@ Bien qu’il ne capture pas directement les aspects émotionnels ou psychologiqu
 Le Bonheur National Brut (BNB), développé au Bhoutan, propose une vision plus holistique et culturelle du bien-être. Il intègre non seulement des dimensions économiques et sociales, mais aussi des éléments immatériels tels que la préservation de l’environnement, la culture et la santé mentale.
 
 Cette approche multidimensionnelle vise à équilibrer les besoins matériels avec des valeurs spirituelles et collectives, souvent absentes des mesures de bonheur traditionnelles. En adoptant un cadre aussi global, le BNB reconnaît que le bonheur ne peut se réduire à des statistiques économiques ou des évaluations individuelles, mais qu’il dépend d’un équilibre entre aspirations personnelles, relations sociales et ressources naturelles.
+
+![BNB.png](BNB.png)
