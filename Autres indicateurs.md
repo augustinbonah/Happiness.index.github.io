@@ -13,6 +13,8 @@ L’Indice de Développement Humain (IDH) constitue une alternative pertinente �
 
 Bien qu’il ne capture pas directement les aspects émotionnels ou psychologiques du bonheur, l’IDH met en lumière les conditions nécessaires à une vie épanouie, telles que l’accès à l’éducation et à une vie décente, qui sont des bases indispensables pour un bien-être durable.
 
+![IDH.png](IDH.png)
+
 ### Bonheur National Brut
 
 Le Bonheur National Brut (BNB), développé au Bhoutan, propose une vision plus holistique et culturelle du bien-être. Il intègre non seulement des dimensions économiques et sociales, mais aussi des éléments immatériels tels que la préservation de l’environnement, la culture et la santé mentale.
