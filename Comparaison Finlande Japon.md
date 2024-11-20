@@ -6,7 +6,7 @@ subtitle:
 
 Les classements mondiaux du bonheur, comme ceux du World Happiness Report (WHR), se basent principalement sur des critères universels tels que la satisfaction de vie, le soutien social et le revenu national. Nous avons pu voir dans la partie précédente exactement comment est construit le World Happiness Index. L'étude s'articule autour de six variables clés, chacune contribuant de manière distincte au score final de bonheur. Cependant, ces classements négligent les différences culturelles qui influencent la perception et l'expression du bonheur. La Finlande et le Japon sont le parfait exemple et nous permettront d’explorer les limites de ces classements. La Finlande est régulièrement classée comme le pays le plus heureux du monde. La Finlande est en tête du classement depuis 2018 et est considérée par beaucoup comme un modèle de bonheur. Des éléments tels qu'un PIB par habitant élevé, la stabilité politique, l'égalité sociale et l'accès universel aux services publics (éducation, soins de santé, logement) peuvent expliquer le score élevé du pays. Voici une liste exhaustive de pourquoi la Finlande se trouve en première place de ce classement: 
 
-
+![20240320-world-happiest-country-canada.jpg](20240320-world-happiest-country-canada.jpg)
 
 A contrario, le Japon bien que prospère est lui souvent classé autour de la 50e place. Cela peut paraître surprenant lorsque l’on sait que le pays a des infrastructures avancées, un PIB élevé et une longévité exceptionnelle. Cependant, il se classe bien en dessous de la Finlande (50e place en 2023). Cette différence met en évidence les différences dans la façon dont chaque culture comprend le bien-être et remet en question la validité des mesures universelles pour saisir ces nuances. 
 
