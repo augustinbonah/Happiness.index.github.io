@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Happiness Index
+title: The Happiness Index
 
 # Your name to show in the footer
 author: Augustin Bonah, Edouard Goussot, Bérénice Goudet, Béatriz Piloto Da Silva, Ario Vaheb
@@ -33,7 +33,7 @@ navbar-links:
  Des améliorations:
      - Des idées d'amélioration: "Idée d'amélioration"
      - D'autres indicateurs: "Autres indicateurs"
- Appendice:
+ Appendices:
      - Conclusion: "Conclusion"
      - Bibliographie: "Bibliographie"
      - Entretiens: "Annexe"
