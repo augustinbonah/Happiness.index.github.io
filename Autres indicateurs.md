@@ -6,6 +6,8 @@ subtitle:
 
 ### Happiness Index OCDE
 
+[OCDE Better life.png](OCDE Better life.png)
+
 ### Indice de Développement Humain
 L’Indice de Développement Humain (IDH) constitue une alternative pertinente à l’indice de bonheur, puisqu’il mesure des dimensions fondamentales du bien-être humain : la santé (via l’espérance de vie), l’éducation (via le niveau moyen et attendu de scolarisation) et le niveau de vie (via le revenu national brut par habitant). Contrairement à l’indice de bonheur, qui repose souvent sur des évaluations subjectives, l’IDH utilise des données objectives, permettant une comparaison standardisée entre les pays.
 
