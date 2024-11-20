@@ -18,6 +18,7 @@ L’espérance de vie, bien qu’indicative du niveau de santé et de développe
 
 À l’inverse, des individus vivant dans des conditions plus difficiles, avec une espérance de vie plus courte, peuvent être heureux grâce à des réseaux sociaux solides, des traditions enrichissantes ou une philosophie de vie optimiste. Ainsi, l’espérance de vie ne prend pas en compte la diversité des chemins vers le bonheur et ne reflète qu’un aspect limité du bien-être humain.
 
+![esperance.jpeg](esperance.jpeg)
 ### Le taux de suicide
 
 Intégrer le taux de suicide dans la mesure de l’indice de bonheur permettrait de mieux refléter les réalités du bien-être au sein d’une population. Cet indicateur est souvent révélateur des souffrances psychologiques, sociales ou économiques que d’autres métriques traditionnelles, comme le revenu ou l’espérance de vie, pourraient masquer. Par exemple, dans des pays où les conditions matérielles semblent idéales, un taux de suicide élevé pourrait révéler des problèmes sous-jacents tels que l’isolement social, la pression sociétale ou un manque de soutien psychologique.
