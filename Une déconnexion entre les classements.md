@@ -15,6 +15,7 @@ La France est souvent considérée comme l'un des pays les plus heureux du monde
 
 De plus, les disparités économiques en France, bien que moins marquées qu'aux États-Unis, restent préoccupantes. Les jeunes générations sont les plus touchées, confrontées à des défis majeurs tels que le chômage élevé et les incertitudes climatiques. Ces disparités géographiques et sociales sont souvent ignorées dans les calculs de WHR. Cela représente une limite importante dans la construction de cet indice.
 
+![Picture1.jpg](Picture1.jpg)
 
 
 ### Des comparaisons générationnelles préoccupantes  
